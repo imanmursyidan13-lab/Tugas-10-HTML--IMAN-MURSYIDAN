@@ -146,6 +146,7 @@ Penjelasan:
 <tr> = baris
 <th> = header
 <td> = isi data
+    
 📌 KESIMPULAN
 
 HTML digunakan untuk membuat struktur website.
